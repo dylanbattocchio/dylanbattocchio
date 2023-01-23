@@ -1,16 +1,27 @@
-### Hi there 👋
+## 👋🏼 Welcome to My Profile
 
-<!--
-**dylanbattocchio/dylanbattocchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Dylan Battocchio!
 
-Here are some ideas to get you started:
+I am a recent postgraduate computer science student with an interest in Cybersecurity. This portfolio contains all of my public projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑🏻‍💻 Professional Experience
+
+> **Co-Developer of Fresh Beer Near Me**  
+> Mobile App Design and Implementation  
+> Capstone Project for Binary Beer  
+> Winner of Best Project @ 2022 SCIT Trade Show
+
+## 🎓 Qualifications
+
+> **Bachelor of Computer Science (Honours)**  
+> University of Wollongong  
+> Estimated to Graduate in 2023
+
+> **Bachelor of Computer Science**  
+> Digital Systems Security and Cyber Security  
+> University of Wollongong    
+> Graduated with Distinction in 2022
+
+## 📧 Contact Me
+
+If you have any questions or inquiries, feel free to contact me at [contact@dylanbattocchio.com](mailto:contact@dylanbattocchio.com).
